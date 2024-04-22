@@ -7,7 +7,7 @@
 + Get AV equipment
 + Teach Git & Github Course
 
-##Things to do this afternoon
+## Things to do this afternoon
 
 + Meet PhD students
 + Work with PGFinder
